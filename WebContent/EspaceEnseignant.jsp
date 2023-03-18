@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="UTF-8"><title>Insert title here</title>
+<meta charset="UTF-8"><title>Accueil</title>
 
 <link href="bt/css/bootstrap.min.css" rel="stylesheet">
     <link href="cssstyles/dashboard.css" rel="stylesheet">

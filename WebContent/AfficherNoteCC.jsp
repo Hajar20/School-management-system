@@ -9,7 +9,7 @@
     <link href="cssstyles/dashboard.css" rel="stylesheet">
 	<script src="bt/icons/feather.min.js"></script>
 <meta charset="UTF-8">
-<title>afficherNote</title>
+<title>Afficher les notes</title>
 </head>
 
 

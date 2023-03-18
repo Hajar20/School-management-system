@@ -9,7 +9,7 @@
     <link href="cssstyles/dashboard.css" rel="stylesheet">
 	<script src="bt/icons/feather.min.js"></script>
 <meta charset="UTF-8">
-<title>remplir note</title>
+<title>Saisir les notes</title>
 </head>
 <c:if test="${empty login && empty password }">
       <c:redirect url = "Login.jsp"/>

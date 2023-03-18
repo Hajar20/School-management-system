@@ -9,7 +9,7 @@
     <link href="cssstyles/dashboard.css" rel="stylesheet">
 	<script src="bt/icons/feather.min.js"></script>
 <meta charset="UTF-8">
-<title>choisi CC pro</title>
+<title>Programmer un contrôle continu</title>
 </head>
 <c:if test="${empty login && empty password }">
       <c:redirect url = "Login.jsp"/>

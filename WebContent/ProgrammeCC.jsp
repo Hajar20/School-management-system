@@ -7,7 +7,7 @@
 <head>
 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>ProgrammeCC</title>
+<title>Programmer un contrôle</title>
 <link href="bt/css/bootstrap.min.css" rel="stylesheet">
     <link href="cssstyles/dashboard.css" rel="stylesheet">
 	<script src="bt/icons/feather.min.js"></script>
