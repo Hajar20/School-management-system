@@ -33,7 +33,7 @@
                     <hr>
                     <div class="container text-left"></div>
                     <br>
-                    <input class="form-control" id="myInput" type="text" placeholder="Rechercher un utilisateur ...">
+                    <input class="form-control" id="myInput" type="text" placeholder="Rechercher un contrôte ...">
                     <br>
                     <table class="table table-bordered">
                         <thead>
@@ -91,6 +91,7 @@
  
      <%@ include file="footer.jsp" %>
         <script src="javascript/jvs.js"> </script>
+         <script src="javascript/search.js" ></script>
 </body>
 </c:if>
 </body>
